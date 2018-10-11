@@ -1,0 +1,1 @@
+export { default as JarvilPlugin } from "./interfaces/JarvilPlugin"
