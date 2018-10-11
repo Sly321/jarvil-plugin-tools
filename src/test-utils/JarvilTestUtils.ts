@@ -1,3 +1,9 @@
+import JarvilPlugin from "../interfaces/JarvilPlugin"
+
 export default class JarvilTestUtils {
-	// TODO enhance jest expect matcher instead
+	public static validate(plugin: JarvilPlugin): boolean {
+
+
+		return true
+	}
 }

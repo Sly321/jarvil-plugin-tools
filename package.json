@@ -2,7 +2,7 @@
   "name": "jarvil-plugin-tools",
   "version": "1.0.0",
   "description": "A Library to Create, Test and Publish Jarvil Plugins",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
   "repository": "git@github.com:Sly321/jarvil-plugin-tools.git",
   "author": "Sven Liebig <liebigsv@gmail.com>",
   "license": "MIT",
